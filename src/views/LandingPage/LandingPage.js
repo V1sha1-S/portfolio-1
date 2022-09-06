@@ -21,7 +21,7 @@ import styles from "assets/jss/material-kit-react/views/landingPage.js";
 import ProductSection from "./Sections/ProductSection.js";
 import TeamSection from "./Sections/TeamSection.js";
 import WorkSection from "./Sections/WorkSection.js";
-import Pdf from '../../Vishal.pdf'
+import Pdf from '../../Vishal-s Resume.pdf'
 
 const dashboardRoutes = [];
 
